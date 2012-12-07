@@ -1,5 +1,5 @@
 {
-	"name": "masterexploder/PHPThumb",
+	"name": "dannytrue/phpthumb",
 	"type": "library",
 	"require": {
         	"php": ">=5.3.0"
@@ -13,8 +13,12 @@
 		{
 			"name": "Jarrod Nettles",
 			"email": "jarrod@squarecrow.com"
+		},
+		{
+			"name": "Daniel Kozhemyako",
+			"email": "d.kozhemyako@gmail.com"
 		}
-		
+
 	],
 
 	"autoload": {
